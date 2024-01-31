@@ -7,3 +7,11 @@ Merhaba! 👋 Ben Ali Pazar <br>👨‍💻 Siber Güvenlik alanında tutkulu bi
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=flat-square&logo=azuredevops&logoColor=white&color=%230078D7) ![CHEF](https://img.shields.io/badge/Chef-02303A.svg?style=flat-square&logo=Chef&logoColor=white&color=%23F09820) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat-square&logo=xfce&logoColor=white)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alipazar/alipazar/output/snake.svg" alt="Snake animation" />
+
+###
