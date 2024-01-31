@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba! 👋 Ben Ali Pazar</h1>
+<h1 align="center">Merhaba! 👋 Ben Ali</h1>
 
 <h3 align="center">Cyber Security Analyst - SOC Analyst | Malware Analysis</h3>
 <h1 align="center">
