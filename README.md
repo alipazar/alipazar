@@ -1,5 +1,6 @@
 
-![Uploading security.gif…]()
+![security](https://github.com/alipazar/alipazar/assets/96140160/a03808ac-ea29-4d5d-a18d-6d7cf9ce540e)
+
 
 <h1 align="center">Merhaba! 👋 Ben Ali</h1>
 
