@@ -1,5 +1,6 @@
 
-![security](https://github.com/alipazar/alipazar/assets/96140160/a03808ac-ea29-4d5d-a18d-6d7cf9ce540e)
+![security (1)](https://github.com/alipazar/alipazar/assets/96140160/ff18f73c-fb5b-49a0-8247-7ad5ef40d803)
+
 
 
 <h1 align="center">Merhaba! 👋 Ben Ali</h1>
